@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+logfile.log
+/.vscode/
+/.gitignore/
+src/client/build
+config/test.json
